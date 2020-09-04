@@ -59,6 +59,12 @@ Generates your new systemic project with extra components: a not so white canvas
 
 More info in the generated ReadMe.
 
+# CONTRIBUTING
+- Feature: [https://github.com/guidesmiths/generator-systemic/issues/new](https://github.com/guidesmiths/generator-systemic/issues/new?assignees=&labels=&template=feature_request.md&title=My%20Awesome%20Feature)
+- Bug: [https://github.com/guidesmiths/generator-systemic/issues/new](https://github.com/guidesmiths/generator-systemic/issues/new?assignees=&labels=&template=bug_report.md&title=My%20Awesome%20Bug)
+
+- Pull Request: []()
+
 
 # LICENSE
 
